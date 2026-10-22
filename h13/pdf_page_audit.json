@@ -1,0 +1,38 @@
+[
+  {
+    "page": 1,
+    "chars": 375,
+    "start": "Halaman 1 \nLAPORAN PRAKTIKUM MOBILE PROGRAMMING \nMODUL XII – AKSES LOKASI DENGAN GPS DI FLUTTER \n \n \n \n \n \n \n \n \n \n \nNam",
+    "end": "al : 22 Oktober 2026 \n \n \n \n \nJURUSAN TEKNIK INFORMATIKA \nFAKULTAS SAINS DAN TEKNOLOGI \nUNIVERSITAS ISLAM NEGERI MAULANA MALIK IBRAHIM \nMALANG \nGANJIL 2026/2027"
+  },
+  {
+    "page": 2,
+    "chars": 2097,
+    "start": "Halaman 2 \nI. Tujuan \nPraktikum ini bertujuan memahami proses pengambilan lokasi perangkat \ndengan GPS pada Flutter, mem",
+    "end": "ns, dan LocationScreen \nsebagai halaman utama. LocationScreen menggunakan StatefulWidget karena \ndata lokasi dan status proses berubah selama aplikasi berjalan."
+  },
+  {
+    "page": 3,
+    "chars": 1736,
+    "start": "Halaman 3 \n5. Menyediakan empat variabel state: _isLoading untuk status proses, _kecamatan \ndan _kota untuk hasil revers",
+    "end": "lah. Selanjutnya aplikasi dibangun menjadi APK \ndebug, dipasang pada emulator Android API 36, lalu diuji menggunakan \nkoordinat emulator di Dinoyo, Kota Malang."
+  },
+  {
+    "page": 4,
+    "chars": 910,
+    "start": "Halaman 4 \nHasil pengamatan selama pengujian \n \n \nGambar 1. Kondisi awal sebelum lokasi \ndiminta. \nGambar 2. Proses peng",
+    "end": "\nmenghasilkan pesan merah yang memberi petunjuk agar izin diubah pada \npengaturan aplikasi. Pada kedua akhir proses, loading berhenti dan tombol kembali \naktif."
+  },
+  {
+    "page": 5,
+    "chars": 244,
+    "start": "Halaman 5 \nIII. Screenshot Hasil \n \n \nScreenshot 1. Tampilan awal aplikasi. \nScreenshot 2. Aplikasi sedang memproses \nlo",
+    "end": "hot 2. Aplikasi sedang memproses \nlokasi. \n \n \nScreenshot 3. Lokasi Dinoyo, Kota Malang \nberhasil ditampilkan. \nScreenshot 4. Pesan error izin lokasi \npermanen."
+  },
+  {
+    "page": 6,
+    "chars": 1685,
+    "start": "Halaman 6 \nIV. Kesimpulan \nAplikasi lokasi_flutter berhasil menerapkan akses lokasi perangkat \nmenggunakan geolocator da",
+    "end": " Makna subLocality dan \nsubAdministrativeArea dapat berbeda menurut penyedia alamat atau wilayah. \nPengambilan posisi dan geocoding belum diberi timeout khusus."
+  }
+]
